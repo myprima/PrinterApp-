@@ -1,0 +1,14 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="button_width">140dp</dimen>
+    <dimen name="prima">40dp</dimen>
+    <dimen name="prima35">35dp</dimen>
+    <dimen name="prima25">25dp</dimen>
+    <dimen name="prima23">23dp</dimen>
+    <dimen name="prima30">30dp</dimen>
+
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="login550">550dp</dimen>
+</resources>
